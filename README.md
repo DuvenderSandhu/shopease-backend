@@ -24,10 +24,10 @@ Here are some screenshots of the ShopEase application:
 ### Product Details
 ![Product Details](./images/3.png)
 
-### Login Popup
+### Login Page
 ![Login Popup](./images/4.png)
 
-### Signup Popup
+### Payment Page
 ![Signup Popup](./images/5.png)
 
 ### User Profile
